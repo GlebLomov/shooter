@@ -1,0 +1,5 @@
+GAME_BG_IMG = "assets/sclad.jpg"
+ROCKET_IMG = "assets/nasa.png"
+ENEMY_IMG = "assets/vorog.png"
+GAME_MUSIC = "assets/bg_music.mp3"
+FIRE_SOUND = "assets/vogon.mp3"
