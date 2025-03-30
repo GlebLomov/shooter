@@ -1,0 +1,7 @@
+GAME_BG_IMG = "shooter-main/game shooter/assets/sclad.jpg"
+ROCKET_IMG = "shooter-main/game shooter/assets/nasa.png"
+ENEMY_IMG = "shooter-main/game shooter/assets/vorog.png"
+GAME_MUSIC = "shooter-main/game shooter/assets/bg_music.mp3"
+FIRE_SOUND = "shooter-main/game shooter/assets/vogon.mp3"
+DAMAGE_SOUND = "shooter-main/game shooter/assets/uron.mp3"
+BULLET_IMG = "shooter-main/game shooter/assets/pulya.png"
